@@ -1,0 +1,19 @@
+vertexlitgeneric
+{
+$basetexture "models\infected\spitter\12"
+
+
+$phong 1
+
+
+$halflambert 0
+$phongfresnelranges "[.2 .5 5]"
+$ambientocclusion 1
+$diffuseexp "1.0"
+
+
+
+
+
+$lightwarptexture "models\survivors\coach\coach_head_wrp"
+}
